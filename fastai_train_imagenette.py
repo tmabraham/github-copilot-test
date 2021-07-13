@@ -5,4 +5,4 @@ from fastai.vision.all import *
 import timm
 
 
-timm.create
+timm
